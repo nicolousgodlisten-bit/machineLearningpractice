@@ -5,4 +5,4 @@ test = pd.read_csv("test.csv")
 
 print( "train shape: ", train.shape)
 print( "test shape: ", test.shape)
-print ("day two progress 0")
+print ("day two progress kesho baada ya kipindi cha kwanzaa nasoma ")
