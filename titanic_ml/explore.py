@@ -5,4 +5,4 @@ test = pd.read_csv("test.csv")
 
 print( "train shape: ", train.shape)
 print( "test shape: ", test.shape)
-print ("day ,,leo ime shindikana labda kesho kwasabau nilikua mjini ")
+print ("day ,,leo ime shindikana labda kesho kwasabau nilikua kununua viti please ")
