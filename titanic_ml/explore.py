@@ -80,3 +80,4 @@ submission = pd.DataFrame({
 submission_path = BASE_DIR / "submission.csv"
 submission.to_csv(submission_path, index=False)
 print(f"\nUtabiri umehifadhiwa kwenye: {submission_path}")
+print("kesho algebra")
